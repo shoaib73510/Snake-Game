@@ -3,6 +3,13 @@ The **Snake Game** is a classic arcade-style game where the player controls a sn
 
 This version of the Snake Game is built using JavaScript, HTML, and CSS. The game runs entirely in the browser and features a simple and interactive design. You control the snake's movement using arrow keys, and the game keeps track of your score based on the number of food items consumed.
 
+<div align="center">
+
+[Live](https://shoaib73510.github.io/Snake-Game/)
+
+![image](https://www.kingofjavascript.com/uploads/posts/thumbnails/snake_game_html_css_javascript_1280x720.jpg)
+</div>
+
 
 ## Features:
 - Simple and easy-to-play controls (Arrow keys to move the snake).
